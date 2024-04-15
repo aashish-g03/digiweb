@@ -1,6 +1,6 @@
 {
-    "name": "digiboard",
-    "short_name": "digiboard",
+    "name": "digisigns",
+    "short_name": "digisigns",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
